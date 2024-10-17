@@ -18,7 +18,7 @@
 <div style="display:flex;">
 <img src="./preview/4.jpg" style="width:32%">
 <img src="./preview/5.jpg" style="width:32%;">
-<img src="./preview/56.jpg" style="width:32%;">
+<img src="./preview/6.jpg" style="width:32%;">
 </div>
 
 ### 2. 后台管理（管理端）
